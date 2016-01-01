@@ -1,0 +1,2 @@
+# hellogo
+my go study
